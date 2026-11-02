@@ -1,0 +1,26 @@
+---
+type: Value Object
+title: "GitApplyFailed"
+description: "Running git apply failed."
+resource: https://github.com/pythoneda-shared-git/shared/blob/main/pythoneda/shared/git/git_apply_failed.py
+tags: [domain]
+generated: { by: pythoneda-grill/deepseek-v4-pro, at: 2026-11-02T19:55:27Z }
+sources:
+  - id: src
+    resource: https://github.com/pythoneda-shared-git/shared/blob/main/pythoneda/shared/git/git_apply_failed.py
+    title: pythoneda/shared/git/git_apply_failed.py
+  - id: readme
+    resource: https://github.com/pythoneda-shared-git/shared/blob/main/README.md
+    title: README.md
+status: draft
+---
+
+Running git apply failed.
+
+Class name: GitApplyFailed
+
+Responsibilities:
+    - Represent the error when running git apply.
+
+Collaborators:
+    - None
